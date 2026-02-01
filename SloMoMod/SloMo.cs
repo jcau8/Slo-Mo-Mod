@@ -54,7 +54,7 @@ namespace SloMoMod
         public bool SloMoInput()
         {
             // Check whether right bumper or O key are pressed
-            if (Input.GetKeyDown(KeyCode.Joystick1Button5) || Input.GetKeyDown(KeyCode.O))
+            if (Input.GetKeyDown(KeyCode.Joystick1Button5) || Input.GetKeyDown(KeyCode.Joystick2Button5) || Input.GetKeyDown(KeyCode.Joystick3Button5) || Input.GetKeyDown(KeyCode.Joystick4Button5) || Input.GetKeyDown(KeyCode.O))
             {
                 return true;
             }
