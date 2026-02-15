@@ -29,8 +29,8 @@ Start the game as you normally would, watch for the mod name and version to appe
 <br/>
 
 ## Keybinds
-| Function           |  Keyboard  | Controller |
-|:------------------:|:----------:|:----------:|
-| Toggle Slo-Mo Mode | O          | RB         |
-| Fast Forward Mode  | I          | LB         |
+| Function                  |  Keyboard  | Controller |
+|:-------------------------:|:----------:|:----------:|
+| Toggle Slo-Mo Mode        | O          | RB         |
+| Toggle Fast Forward Mode  | I          | LB         |
 
