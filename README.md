@@ -1,6 +1,6 @@
 # Slo-Mo Mod
 
-This is a mod for Lonely Mountains Downhill, allowing you to slow down gameplay and capture amazing cinematics.
+This is a mod for Lonely Mountains Downhill, allowing you to slow down or speed up gameplay to capture amazing cinematics or hilarious clips!
 
 ## How to Install
 
@@ -26,5 +26,11 @@ Go to your game folder and paste the mod in the `Mods` folder. <br/>
 
 ### 4. Run the Game
 Start the game as you normally would, watch for the mod name and version to appear during the Melon Loader start up to know if the mod has been loaded. Alternatively you can check the command panel which will also open, do **NOT** close this window while you are playing the game.
+<br/>
 
+## Keybinds
+| Function           |  Keyboard  | Controller |
+|:------------------:|:----------:|:----------:|
+| Toggle Slo-Mo Mode | O          | RB         |
+| Fast Forward Mode  | I          | LB         |
 
